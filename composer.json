@@ -1,6 +1,6 @@
 {
     "name": "isaced/flarum-ext-email-verification-switch",
-    "description": "Disable new registered user email verification.",
+    "description": "Disable new registered user email verification when logged in with oauth provider.",
     "type": "flarum-extension",
     "keywords": ["register", "email"],
     "license": "MIT",
